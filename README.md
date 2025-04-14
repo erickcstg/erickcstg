@@ -1,4 +1,4 @@
-                                                            Hello, World!🌎
+                                                          Hello, World!🌎
 ## Eu sou Erick Cavalcante 👋
 Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, ideias e colaborações que refletem minha jornada acadêmica como desenvolvedor. 🚀
 
